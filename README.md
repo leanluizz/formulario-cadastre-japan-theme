@@ -11,6 +11,8 @@ Technologies used:
 
 🔷 - CSS3
 
+💜 - Bootstrap
+
 {} - Well,initially sayng this project have the localhost with host for the system so,for use
 
 this have start your CLI with the archives installed in your machine (Working only using one CPU)
