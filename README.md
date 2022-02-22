@@ -48,6 +48,3 @@ and Node installed and run:
 
 Landing page example:
   <img src="https://raw.githubusercontent.com/leanluizz/First-Database-Japanese-Theme/principal/Cadastro/example-landing-page.png" alt="landing-page">
-  
-  Layout: <a href="https://leanluizz.github.io/First-Database-Japanese-Theme/">Link
-
