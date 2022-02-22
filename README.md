@@ -37,7 +37,7 @@ and Node installed and run:
   
   👀 Observation:
   
-  Case you don't have the Node installed, click here "https://www.google.com/search?q=Como+instalar+o+nodejs&sxsrf=APq-WBtEODqDlE7wH5qXhiEk5G2mGF9QyQ%3A1645538468599&ei=pOwUYu7xI8fN1sQPksuYoAQ&ved=0ahUKEwju04m_vJP2AhXHppUCHZIlBkQQ4dUDCA4&uact=5&oq=Como+instalar+o+nodejs&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjoECAAQR0oECEEYAEoECEYYAFD0E1i8GGDdGWgAcAN4AYABwwGIAZ8GkgEDMC42mAEAoAEByAEIwAEB&sclient=gws-wiz"
+  Case you don't have the Node installed, click here https://www.google.com/search?q=Como+instalar+o+nodejs&sxsrf=APq-WBtEODqDlE7wH5qXhiEk5G2mGF9QyQ%3A1645538468599&ei=pOwUYu7xI8fN1sQPksuYoAQ&ved=0ahUKEwju04m_vJP2AhXHppUCHZIlBkQQ4dUDCA4&uact=5&oq=Como+instalar+o+nodejs&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjoECAAQR0oECEEYAEoECEYYAFD0E1i8GGDdGWgAcAN4AYABwwGIAZ8GkgEDMC42mAEAoAEByAEIwAEB&sclient=gws-wiz
   
 
 4 - step: Write in your search navegator localhost:1546/cadastro
