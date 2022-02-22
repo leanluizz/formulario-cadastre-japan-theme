@@ -13,7 +13,7 @@ app.use(bodyPars.urlencoded({extended:false}))
 app.use(bodyPars.json())
 
 // SEQUELIZE
-const sequelize = new Sequelize("crud_japones", "root", "Pcdfgh135790!",{
+const sequelize = new Sequelize("crud_japones", "root", "",{
      host:"localhost",
      dialect:"mysql"
 })
