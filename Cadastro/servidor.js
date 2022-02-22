@@ -54,6 +54,8 @@ app.use("/img", express.static(__dirname + "public/img"))
 app.get("/cadastro", function(req, res){
      res.render("index")
 })
+
+Table.sync({force: true})
 app.listen(Port, function(){
      console.log(`Server-loading in localhost:${Port}`);
 })
