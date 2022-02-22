@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+    <title>Register</title>
+</head>
+<body class="p-3 mb-2 bg-dark text-white" id="body">
+
+    <nav class="p-3 mb-2 bg-dark text-white">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src="/img/menu-navbar.png" alt="" width="100" height="80">
+          </a>
+        </div>
+      </nav>
+
+    <div class="box">
+    <div class="d-flex flex-row bd-highlight mb-3" id="boxes">
+        <div class="p-2 bd-highlight">
+
+            <form action="/add?" method="POST">
+                <h1 class="title">Cadastre e se torne um Ronin</h1>
+                <p>Nome</p>
+                <input type="text" name="nome"required="required">
+                <p>Senha</p>
+                <input type="password" name="senha" required="required">
+                <p>E-mail</p>
+                <input type="email" name="email" required="required">
+                <p>Cla</p>
+                <input placeholder="Clã" list="cla" id="datalist" name="cla" required="required">
+                 <datalist id="cla">
+                  <option value="Wægmunding"></option>
+                   <option value="Macfarlane"></option>
+                     <option value="Melville"></option>
+                      <option value="Wemyss"></option>
+                       <option value="Lyon"></option>
+                 </datalist>
+                <button type="submit" name="Cadastrar">Cadastrar</button>
+            </form>
+
+        </div>
+        <div class="p-2 bd-highlight">
+            <picture>
+            <source media="(max-width: 600px)" srcset="/img/mulher-japonesa-cell.png">
+            <img src="/img/mulher-japonesa.png" alt="japanese-woman">
+            </picture> 
+        </div>
+      </div>
+    </div>
+</body>
+</html>
