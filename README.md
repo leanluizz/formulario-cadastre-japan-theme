@@ -3,15 +3,15 @@ Welcome and hello this is my first Database Register,bellow have the intructions
 
 Technologies used:
 
-🐬 - MySQL
+ - MySQL
 
-💚 - NodeJS
+ - NodeJS
 
-🔶 - HTML5 (ejs)
+ - HTML5 (ejs)
 
-🔷 - CSS3
+ - CSS3
 
-💜 - Bootstrap
+ - Bootstrap
 
 {} - Well,initially sayng this project have the localhost with host for the system so,for use
 
