@@ -45,9 +45,9 @@ node servidor.js
   
   👀 Observação:
   
-  Caso não tenha o pacote npm instalado clique aqui<a href="https://www.google.com/search?q=Como+instalar+o+nodejs&sxsrf=APq-WBtEODqDlE7wH5qXhiEk5G2mGF9QyQ%3A1645538468599&ei=pOwUYu7xI8fN1sQPksuYoAQ&ved=0ahUKEwju04m_vJP2AhXHppUCHZIlBkQQ4dUDCA4&uact=5&oq=Como+instalar+o+nodejs&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjoECAAQR0oECEEYAEoECEYYAFD0E1i8GGDdGWgAcAN4AYABwwGIAZ8GkgEDMC42mAEAoAEByAEIwAEB&sclient=gws-wiz" />Como instalar o Node</a>
+  Caso não tenha o pacote npm instalado clique aqui
   
--
+  [Como instalar o Node](https://balta.io/blog/node-npm-instalacao-configuracao-e-primeiros-passos#:~:text=A%20instala%C3%A7%C3%A3o%20do%20Node%20no,adicionado%20ao%20PATH%20do%20Windows.)
 
 4 - Entre no projeto: [localhost](localhost:1546/cadastro)
 
